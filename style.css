@@ -189,7 +189,7 @@ footer {
 
 @media (max-width: 728px) {
   .row {
-    flex-direction: columm;
+    flex-direction: column;
   }
 
   .home__description {
